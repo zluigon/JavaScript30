@@ -22,7 +22,7 @@ Below is an overview of the JavaScript30 challenges I've completed and those tha
 
 1. [x] [JavaScript Drum Kit](./01%20-%20JavaScript%20Drum%20Kit)
 2. [x] [JS + CSS Clock](./02%20-%20JS%20and%20CSS%20Clock)
-3. [ ] [CSS Variables](./03%20-%20CSS%20Variables)
+3. [x] [CSS Variables](./03%20-%20CSS%20Variables)
 4. [ ] [Array Cardio, Day 1](./04%20-%20Array%20Cardio%20Day%201)
 5. [ ] [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery)
 6. [ ] [Type Ahead](./06%20-%20Type%20Ahead)
